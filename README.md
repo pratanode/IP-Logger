@@ -12,5 +12,5 @@ Obtén la IP de alguien enviando el link de una imagen.
   - Luego de haber instalado NodeJS, ejecuta el archivo "setup.bat" para instalar los módulos necesarios.
   - Una vez instalado los módulos necesarios, ejecuta "start.bat" para encender el servidor.
 - Dónde puedo conseguir **ayuda** ?
-  - En el servidor de **Z**en**X** ( **https://discord.gg/u8EfeRN4x6** o **https://discord.gg/4jD6BY2Bj3** )
+  - En el servidor de Sleep**X** ( **https://discord.gg/u8EfeRN4x6** o **https://discord.gg/4jD6BY2Bj3** )
 - Video de presentación: https://www.youtube.com/@Kromaz-rip
